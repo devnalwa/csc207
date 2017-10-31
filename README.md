@@ -1,1 +1,1 @@
-# csc207
+# learning-genie-dev-james
